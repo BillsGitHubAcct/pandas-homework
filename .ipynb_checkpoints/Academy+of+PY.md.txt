@@ -1,18 +1,4 @@
-
-Academy of PY Analysis
-
-  
-
-- Trend #1  After reviewing the top performing and bottom performing reports that I produced,  it appears that increased math scores are more significant to overall passing rate gains whereas the change in reading scores between between the two groups is relatively flat. 
-  
-
-- Trend #2  It appears that the more money budgeted per student , the overall passing rate is not affected positively.  In fact the opposite is true, the bottom most performing group averaged $39 dollars more per student than the top most performing group. 
-  
-
-- Trend #3 Another trend that is shown that if your student is in a  Charter schools then on average you student will have a higher math score and a greater overall passing rate.  This is supported by the the performance data and especially the school type range reports.
-
-
-
+﻿
 
 ```python
 # Dependencies
